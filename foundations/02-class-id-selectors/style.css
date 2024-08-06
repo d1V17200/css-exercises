@@ -1,8 +1,8 @@
-p.color {
+.color {
     background-color: rgb(238, 111, 132);
     font-family: Verdana, DejaVu Sans, sans-serif;
 }
-p.font {
+.font {
     font-size: 24px;
 }
 
